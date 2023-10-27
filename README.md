@@ -1,10 +1,10 @@
 <p align="center">Estudante de programação <br><br> futuro Desenvolvedor Full Stack <strong>Apaixonado por descobrir coisas novas.</strong> <strong></strong> </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-V-Mendes&theme=radical&mode=weekly" /> 
-            <a href="https://github.com/Gabriel-V-Mendes"
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrike-PB&layout=compact&langs_count=6&theme=tokyonight"/>
-         </div>        
+ <div>
+   <a href="https://github.com/Gabriel-V-Mendes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-V-Mendes-PB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes-PB&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
  
  &nbsp;
  &nbsp;
