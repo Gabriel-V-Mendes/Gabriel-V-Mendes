@@ -4,6 +4,11 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriel-V-Mendes&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Gabriel-V-Mendes.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&show_icons=true&theme=radical&layout=compact" />
  </div>
+   <div>
+            <a href="https://github.com/Henrike-PB">
+          
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrike-PB&layout=compact&langs_count=6&theme=tokyonight"/>
+         </div>          
  
  &nbsp;
  &nbsp;
