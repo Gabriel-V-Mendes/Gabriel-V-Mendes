@@ -10,8 +10,8 @@
 </img>
 
  <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&theme=dark&hide_border=true" /></a> 
-
-
+ 
+<a height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=6&theme=tokyonight" /></a>
 
 
 
@@ -24,13 +24,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Eai eu sou o Gabriel, Estudante de programação full stack, estou me descobrindo nessa area incrivel, esta sendo uma experiencia muito boa um sonho realizado poder estar estudando e logo mais estar atuando como programador. 
+Estou sempre descobrindo algo novo e me aperfeiçoando cada vez mais. 
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+   Objetivo: **Estudo continuo, me aprimorar nas minhas linguagens favoritas e trabalhar na area**  
 </p>
 
 <p align="left">
@@ -40,7 +40,7 @@
 
 
 <p align="left">
-  💌 Navegue à vontade pelo perfil.
+  💌 |Navegue à vontade pelo perfil.
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
