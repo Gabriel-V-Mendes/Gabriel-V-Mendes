@@ -9,6 +9,7 @@ aqui você vai acompanhar um pouco da minha jornada com projetos e evoluções n
   <img height="200"  width="400"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=8&card_width=350&theme=midnight-purple" />
 </a>
 
+
 <h2>Habilidades</h2>
 <p>Sempre busco me aprimorar, aqui esta as linguagens que trabalho atualmente</p>
 <div>
@@ -48,5 +49,10 @@ aqui você vai acompanhar um pouco da minha jornada com projetos e evoluções n
   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+
+Chegamos ao fim da jornada, para saber mais me acompanhe nas minhas redes sociais.
+Por la mostrarei meu caminho sendo trilhado, seria legal ter você por la!
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
