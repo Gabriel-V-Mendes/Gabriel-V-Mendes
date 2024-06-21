@@ -1,46 +1,46 @@
-<img align="left" width="370px" height="420px" src="https://github.com/Gabriel-V-Mendes/Gabriel-V-Mendes/assets/147349102/34e21a40-2c75-4e3c-a12f-42bbdb7ba5c2">
-
-## Ola, Mundo! estou fazendo um curso de programação web Full-Stack no Instituto da oportunidade social
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Encontrime-me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-</img>
-
- <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&theme=dark&hide_border=true" /></a> 
- 
-<a height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=6&theme=tokyonight" /></a>
+alert("Eai, Eu sou o Gabriel");
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-V-Mendes&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=8&card_width=350&theme=midnight-purple" />
+</a>
 
-</img>
-
+<h2>Habilidades</h2>
+<p>Sempre busco me aprimorar, aqui esta as linguagens que trabalho atualmente</p>
+<div>
+<img height="35" src="https://cdn-icons-png.flaticon.com/128/174/174854.png"/>
+<img height="35" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"/>
+<img height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"/>          
+<img height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png"/>         
+<img height="35" src="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"/>  
 </div>
 
-<br> <br>
+<h2>Banco de dados</h2>
+<div>
+<img height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<h2>Ferramentas</h2>
+<div>
+ <img height="35" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+ <img height="35" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+ <img height="35" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
 
-<p align="left"> 
-Eai eu sou o Gabriel, Estudante de programação full stack, estou me descobrindo nessa area incrivel, esta sendo uma experiencia muito boa um sonho realizado poder estar estudando e logo mais estar atuando como programador. 
-Estou sempre descobrindo algo novo e me aperfeiçoando cada vez mais. 
-</p>
+<h2>Em aprendizado 🌱</h2>
+<div>
+  <img height="40" src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"/>
+  <img height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"/>
+  <img height="40" src="https://cdn-icons-png.flaticon.com/128/11518/11518876.png"/>
+</div>
 
-<p align="left">
+<h2>Encontre-me</h2>
+<div>
+  <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/>
+</div>
  
-   Objetivo: **Estudo continuo, me aprimorar nas minhas linguagens favoritas e trabalhar na area**  
-</p>
-
-<p align="left">
-</p>
-
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
-
-
-<p align="left">
-  💌 |Navegue à vontade pelo perfil.
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
