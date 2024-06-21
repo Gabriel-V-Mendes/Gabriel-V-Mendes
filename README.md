@@ -5,7 +5,7 @@ alert("Eai, Eu sou o Gabriel");
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-V-Mendes&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=8&card_width=350&theme=midnight-purple" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=8&card_width=350&theme=midnight-purple" />
 </a>
 
 <h2>Habilidades</h2>
