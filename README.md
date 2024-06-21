@@ -39,8 +39,13 @@ alert("Eai, Eu sou o Gabriel");
 
 <h2>Encontre-me</h2>
 <div>
+<a href="https://www.instagram.com/dev_gabriel9?igsh=aWJ0aGhkNDR0dTQ0" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-   <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-mendes-95a028293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
