@@ -1,8 +1,8 @@
 # Olá, eu sou o Gabriel Mendes! 👋
 
-### Desenvolvedor de Software | Analista de Dados | Estudante de ADS na Unisinos
+### Desenvolvedor de Software | Cientista de Dados | Estudante de ADS na Unisinos
 
-Sou um profissional em transição para a área tecnológica, focado em transformar lógica e dados em soluções eficientes. [cite_start]Atualmente, curso **Análise e Desenvolvimento de Sistemas na Unisinos** [cite: 7] e busco a minha primeira oportunidade no mercado como **Desenvolvedor Júnior ou Estagiário**.
+Sou um profissional em transição para a área tecnológica, focado em transformar lógica e dados em soluções eficientes. Atualmente, curso **Análise e Desenvolvimento de Sistemas na Unisinos**  e busco a minha primeira oportunidade no mercado como **Desenvolvedor Júnior ou Estagiário**.
 
 ---
 
@@ -18,23 +18,16 @@ Sou um profissional em transição para a área tecnológica, focado em transfor
 **Ciência de Dados**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-%23E25A1C.svg?style=for-the-badge&logo=dask&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23444876.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **Bancos de Dados**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-V-Mendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-V-Mendes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
