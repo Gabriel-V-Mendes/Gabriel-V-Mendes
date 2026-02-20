@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Mendes! 👋
 
-### Analsita de Dados | Estudante de ADS na Unisinos
+### Analista de Dados | Estudante de ADS na Unisinos
 
 Sou um profissional em transição para a área tecnológica, focado em transformar lógica e dados em soluções eficientes. Atualmente, curso **Análise e Desenvolvimento de Sistemas na Unisinos**  e busco me aprimorar cade vez mais.
 
