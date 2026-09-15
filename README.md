@@ -10,40 +10,40 @@
 ```
 
 ```
-            ........::::.=- .:::----::-sosooooooosooosssscccc**+++===--:
-            .....:.:.:::.=-    . .....-coooooooooooooossssscccc**++==---
-           .....::::::                  +soooooooooooooosssssccc**++===-
-          ....:.:::.:                      +ooaoooooooooooosssccc***+==-
-         .....::.                            =ooooooooooaoosssccc***++==
-       ......:::.                  .. : .     .*oooaooooaooosssccc***++=
-       .....:.:            .*.:=c:**=c:=+s-.    aoaaaaoaaooooossccc**++=
-      ....:.:.         =*cshk$waawh%%%aa##kac+=  =+oaaaooooossssccc**++=
-    ......::.        :-caw#%$$$$$$$$$$$%%@%$$$$kc -oooaoaooossssccc**+==
-   ......:::        :*okkw##$$$$$$$@$%$$$@%$$$$@%h:soooooooossccc****+==
-   .....:::.       -cahkww#%%@%w$$$@%@%%$@$$$$$@%#a soaooosssssccc**++==
- ......::...     :=*shwhw##@%###%@$$$%%@@@$$@#www%#o=ooososssssccc**++==    gabriel@vault-101
-  ....:::::       -=sh#ww#%@@$@@$$$$$%%%@##w#wwww##w++oossossssccc***+==    ─────────────────────────────────────────
-. ..:.::::.       --*ok###%$$$$$$$$$$@$@@@@%$%#%@##ws:oooosssscscc***++=    .- OS ............ Linux (Ubuntu / WSL2) · Windows 11
-......:::-.       -*oakkw##@$$$$$%$$$@$$$$$$$%#%@@%w*-ossscssssccc****+=    .- Shell ......... bash · zsh
- ....:::::       =oakkhkkww%##%@#$#ascw@%%$$@w#@@%#w==c=csccsssssccc**+=    .- Host .......... Unisinos — Análise e Desenvolvimento de Sistemas
-.....:::::      -oakwwkwa-.. ..  :..-=*wo*a=++ook%wk-=ocss+ssssscccc*+=-    .- Uptime ........ em transição de carreira para infraestrutura
-.... .   .c=    +akkwkhosssc*==: :-+**hkc*=-.   ..+k:*sss++ssscsccc*+=--    .- Editor ........ VS Code · Vim
-.....:.::+ =    -. +ckas*=--:c=+..=--s##s-.   ::-*sk:--*ccscsssscc*+=--:
- ....: :+.+-    *akwa=..c+=c:  ac:===k$$a.::-sas*csa  cssossssscc*+==---    .- Cargo.Alvo .... DevOps / SRE
- ..::...=sk*   ssco#@%@@who+c***=+okk-h$$cs:  +s=-cas*. *ssssssc*+===-=-    .- Foco.Atual .... containers, automação, CI/CD e observabilidade
- ...:::.:*k++:-saaaak#$$$$@kkaoa#@%@w-c%#h=+=--=soahsss*-cooscc*++==-=--    .- Estudando ..... Kubernetes, Terraform, GitHub Actions, Prometheus
-.....::::.haao-ooahhhw@$$$$$$$$$$@#wss$$@wkwasoa%$%wosccoosscc**++====--    .- Idiomas ....... Português · Inglês (técnico)
-.....:.::-kw@ocsookwwkw#%$$$$@$$%waac@$$$$kw#$$$$@w%scccssscc**++==+==--
- ....:::.:a%%#*ssoakkkkkk#@$$$%wk#*w#w#$%#wok%@$$w##c*+osscc*+++=+====--    .- Contato ....... gabrieldovalemendes@gmail.com
- ......:.: *ao*csoohkkkhwww%##khasc* .=soc=*sakkk##wsssccc***++++=====--    .- LinkedIn ...... /in/gabrielvmendes-dev
-  ......:.  .:c*sssahwkkhhhhhhooahk+s+-+==h**soahkwhccc***c*++=++=====--    .- GitHub ........ Gabriel-V-Mendes
-    ....    ::+c*ooohkkwkw######%@%ao:--..=c*cccooaccccc***++++======--:
-           ::-=+csoaoahaw####wwkc*-= . .    :*cccsc   .--=+++========---    .- Status ........ [ ONLINE ] disponível para oportunidades
-           --*==+csoaakhkw#w#a==--c===+*+:-  :cccc-          ==+====---:
-           ==c=--+*oosoahkwwh-.  .-cssc*+*-   +*cc              -==----:
-           -+c*-::=csoooaaaka+=saossocscc*c*=:*cc.                .=--::
-            =**+:..-+*sooaaaakkwhho*:     =os+**+                   :-::
-            .=*+=:..:=cssoaakkw#%%%@##kaoahkho*=                      ::
+            ........::::.=- .:::----::-sosooooooosooosssscccc**+++===--
+            .....:.:.:::.=-    . .....-coooooooooooooossssscccc**++==--
+           .....::::::                  +soooooooooooooosssssccc**++==
+          ....:.:::.:                      +ooaoooooooooooosssccc***+==
+         .....::.                            =ooooooooooaoosssccc***++=
+       ......:::.                  .. : .     .*oooaooooaooosssccc***++
+       .....:.:            .*.:=c:**=c:=+s-.    aoaaaaoaaooooossccc**++
+      ....:.:.         =*cshk$waawh%%%aa##kac+=  =+oaaaooooossssccc**++
+    ......::.        :-caw#%$$$$$$$$$$$%%@%$$$$kc -oooaoaooossssccc**+=
+   ......:::        :*okkw##$$$$$$$@$%$$$@%$$$$@%h:soooooooossccc****+=
+   .....:::.       -cahkww#%%@%w$$$@%@%%$@$$$$$@%#a soaooosssssccc**++=
+ ......::...     :=*shwhw##@%###%@$$$%%@@@$$@#www%#o=ooososssssccc**++=    gabriel@vault-101
+  ....:::::       -=sh#ww#%@@$@@$$$$$%%%@##w#wwww##w++oossossssccc***+=    ─────────────────────────────────────────
+. ..:.::::.       --*ok###%$$$$$$$$$$@$@@@@%$%#%@##ws:oooosssscscc***+    .- OS ............ Linux · Windows 11
+......:::-.       -*oakkw##@$$$$$%$$$@$$$$$$$%#%@@%w*-ossscssssccc****    .- Shell ......... bash · zsh
+ ....:::::       =oakkhkkww%##%@#$#ascw@%%$$@w#@@%#w==c=csccsssssccc**    .- Host .......... Unisinos — Análise e Desenvolvimento de Sistemas
+.....:::::      -oakwwkwa-.. ..  :..-=*wo*a=++ook%wk-=ocss+ssssscccc*+=   .- Uptime ........ em transição de carreira para infraestrutura
+.... .   .c=    +akkwkhosssc*==: :-+**hkc*=-.   ..+k:*sss++ssscsccc*+=    .- Editor ........ VS Code 
+.....:.::+ =    -. +ckas*=--:c=+..=--s##s-.   ::-*sk:--*ccscsssscc*+=-
+ ....: :+.+-    *akwa=..c+=c:  ac:===k$$a.::-sas*csa  cssossssscc*+==-    .- Cargo.Alvo .... DevOps / SRE
+ ..::...=sk*   ssco#@%@@who+c***=+okk-h$$cs:  +s=-cas*. *ssssssc*+===-    .- Foco.Atual .... containers, automação, CI/CD e observabilidade
+ ...:::.:*k++:-saaaak#$$$$@kkaoa#@%@w-c%#h=+=--=soahsss*-cooscc*++==-=    .- Estudando ..... Kubernetes, Terraform, GitHub Actions, Prometheus
+.....::::.haao-ooahhhw@$$$$$$$$$$@#wss$$@wkwasoa%$%wosccoosscc**++====    .- Idiomas ....... Português · Inglês (técnico)
+.....:.::-kw@ocsookwwkw#%$$$$@$$%waac@$$$$kw#$$$$@w%scccssscc**++==+==-
+ ....:::.:a%%#*ssoakkkkkk#@$$$%wk#*w#w#$%#wok%@$$w##c*+osscc*+++=+====    .- Contato ....... gabrieldovalemendes@gmail.com
+ ......:.: *ao*csoohkkkhwww%##khasc* .=soc=*sakkk##wsssccc***++++=====    .- LinkedIn ...... /in/gabrielvmendes-dev
+  ......:.  .:c*sssahwkkhhhhhhooahk+s+-+==h**soahkwhccc***c*++=++=====    .- GitHub ........ Gabriel-V-Mendes
+    ....    ::+c*ooohkkwkw######%@%ao:--..=c*cccooaccccc***++++======--
+           ::-=+csoaoahaw####wwkc*-= . .    :*cccsc   .--=+++========-    .- Status ........ [ ONLINE ] disponível para oportunidades
+           --*==+csoaakhkw#w#a==--c===+*+:-  :cccc-          ==+====---
+           ==c=--+*oosoahkwwh-.  .-cssc*+*-   +*cc              -==----
+           -+c*-::=csoooaaaka+=saossocscc*c*=:*cc.                .=--:
+            =**+:..-+*sooaaaakkwhho*:     =os+**+                   :-:
+            .=*+=:..:=cssoaakkw#%%%@##kaoahkho*=                      :
             .-+++=-:..:=*csakkw##@@@@%kkkkwkoc:                        .
             :.-*++=---...-=*coahaaoahass*csoc:
              -.++++===--:.   .+*=*c=++c+-=--
@@ -145,6 +145,6 @@ budget.
 
 ```
  ────────────────────────────────────────────────────────────────────────────
-  ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL        SESSION ACTIVE — Esc to exit
+                ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL        
  ────────────────────────────────────────────────────────────────────────────
 ```
